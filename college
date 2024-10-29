@@ -1,0 +1,313 @@
+<html>
+<head>
+<title>SVCE Tirupati </title>
+<style>
+body{background-color:aqua;
+text-align:center;
+}
+#topics{
+background-color:white;
+text-decoration:none;
+margin:20px;
+padding:10px;
+}
+#img1{
+position:relative;
+}
+#id7{
+float:left;
+margin:10px;
+}
+#content1{
+position:absolute;
+top:30px;
+left:250px;
+color:white;
+background-color:red;
+font-size:40px;
+}
+#img2{
+
+left:200px;
+top:1px;
+}
+#content2{
+left:0px;
+color:white;
+background-color:orange;
+font-size:20px;
+}
+#img3{position:relative;
+float:left;
+margin:10px;
+}
+#content5{
+background-color:blue;
+color:white;
+}
+#img4{position:relative;
+float:left;
+margin:10px;
+}
+#content6{position:absolute;
+background-color:blue;
+color:white;
+left:20px;
+top:10px;
+}
+#set1{position:relative;
+left:0px;
+top:5px;
+background-color:orange;
+color:blue;
+float:left;
+width:40%;
+height:80%;
+}
+#set2{position:relative;
+top:5px;
+left:
+50px;
+background-color:pink;
+color:blue;
+width:40%;
+height:80%;
+}
+table,th,td{
+border:3px solid black;
+margin:10px;
+padding:10px;
+border-collapse:collapse;
+color:blue;
+background-color:yellow;
+text-align:center;
+}
+</style>
+</head>
+<body><i>
+<h1><i> SVCE <br>SRI VENKATESWARA COLLEGE OF ENGINEERING </i> </h1>
+<div id="topics">
+<a href="#id1">HOME &nbsp  </a>
+<a href="#id2">ABOUT &nbsp  </a>
+<a href="#id3">GALLERY &nbsp  </a>
+<a href="#id4">CONTACT &nbsp  </a>
+</div>
+<img src="https://i.ytimg.com/vi/SrhZoSod2IQ/maxresdefault.jpg" style="width:600px;height:300px">
+<br> <br> <br><fieldset>
+<h4 id="id1">Home</h4><br>
+<span style="background-color:tomato;color:white;"> &nbsp Campus Updates &nbsp</span><br><br>
+<div id="id7">
+<img src="https://svce.edu.in/img/WhatsApp%20Image%202023-10-15%20at%2012.21.32.jpeg" style="width:270px;height:250px;">
+</div>
+<div id="id7">
+<img src="https://svce.edu.in/img/IMG-20230705-WA0011.jpg" style="width:270px;height:250px;">
+</div>
+<div id="id7">
+<img src="https://svce.edu.in/img/WhatsApp%20Image%202023-02-07%20at%203.00.24%20PM.jpeg" style="width:270px;height:250px;">
+</div>
+<p></p>
+</fieldset>
+<br> <br> <br><fieldset>
+<h4 id="id2">About</h4>
+<p><div id="img1">
+<img src="https://encrypted-tbn/0.gstatic.com/images?q=tbn:ANd9GcQmohxXRbxvcIxad4ws48Ln8_fpxpmawemjRA&s" style="width:600px;height:300px">
+<div id="content1">
+About Us
+</div>
+</div><br><br>
+<h1 style="background-color:tomato;color:white;"><q>Svce is Under Council For Social Development Trust</q></h1>
+<h4>PRINCIPAL</H4>
+<div id="img2">
+<img src="https://svce.edu.in/images/aboutus/sp.jpg" style="width:200px;height:200px">
+<div id="content2">
+Dr. N Sudhakar Reddy, completed his B.E from College of Engineering, GITAM,Visakhapatnam, M.Tech (Computer Science) from College of Engineering JNTU, Anantapurand Ph.D from JNTUA Anantapur in Data mining Specialization. He has been awarded the CMILevel 5 Certificate in Management and Leadership. He has 25 years of Teaching and Research Experience. He worked at various engineering colleges in different positions like Professor,Training and Placement Officer, Head of the Department and Principal.
+<br> <br>
+He has conducted many training programmes for Engineering and MBA students on life skills and campus recruitment. He acted as a coordinator for Infosys Campus Connect and also trained many students on Programming Fundamentals in STP(Special Training Programme), which is conducted by Infosys, IEG, JNTUH & Rajiv Udyogasri.
+<br> <br>
+He is the life member of ISTE, CSI, IETE and an annual member of IEEE and ACM. Member of JNTUA-PG Board of Studies in faculty of CSE & MCA.
+<br> <br>
+He has been with SV College of Engineering, Tirupati since 2008. Under his adroit administration, SVCE is glorified with permanent affiliation, 2(f), 12(B) , R&D centers(CSE &ECE), NAAC with “A” grade and NBA for all eligible UG Programmes - EEE, ECE, CSE, IT, MECH, CIV and UGC Autonomous Status.
+<br> <br>
+He received ISTE – Best Engineering College Principal award in AP and TS for the year 2017 from the Honorable Vice-Chancellor of JNTUA. He has received JNTUA University Principal Award for the year 2022 and award has been presented to him on the occasion of Teacher’s Day on 05-09-2022 at JNTUA, Ananthapuramu.
+<br> <br>
+He received prestigious ISTE - Bharatiya Vidya Bhavan National Award for Best Engineering College Principal Award-2021 from the Honoroble Chief Minister of Goa Dr. Pramod Sawant on 27th August, 2022 at Goa.
+<br> <br>
+He is nominated as a member of independent expert committee for evaluating the solutions/courses of NEAT 2.0 by NEAT (National Educational Alliance for Technology), AICTE.
+<br> <br>
+</div> </div><br> <br>
+<span style="background-color:red;color:white;">VISION & MISSION</span><hr color="blue" width="50%">
+<h1 color="blue">VISION</h1>
+To be a centre of excellence focusing on high quality technical education, research and technical services with global leadership competence to succeed in employment and higher education with ethical, social, entrepreneurial aspects updating to the real time requirements.
+<br>
+<div style="background-color:blue;color:white"><h1 color="red">MISSION</h1>
+M1 - To impart high quality technical education by providing the state-of-the art infrastructure, core instruction.
+<br><br>
+M2 - Advanced research and technical consultancy services with qualified and senior faculty.
+<br><br>
+M3- To prepare the students professionally deft and intellectually adept possessing excellent skill, knowledge and behavior with global competence
+<br><br></div>
+<br>
+<div id="content4"><span style="background-color:white;color:blue"> &nbsp &nbsp GOVERNING BODY &nbsp &nbsp</span><hr color="blue" width="20%">
+Dear Students and Parents,
+<br><br>
+It gives me great pleasure to welcome you to our SV Colleges family.
+<br><br>
+<q>We cannot always build the future for our youth, but we can build our youth for the future.</q>
+<br><br><strong>Franklin D. Roosevelt</strong>
+<br><br>
+These words by Franklin D. Roosevelt perfectly describe our aim at SV Colleges. Beyond providing a sound education, we wish to provide our students a holistic learning experience for life. Our aim is to teach students to LEARN, not just STUDY. Hence, we strive to travel beyond the boundaries of mere books. We have realized that the future is abstract and unknown but the youth in our hands are real and can be moulded.
+<br><br>
+Having students from different parts of the country, I sincerely consider it as our priority to make the students feel right at home. We strive to provide a unique educational experience for students by devoting all our efforts to our mission, insight, and culture. It is our fervent hope that the years that you spend in SV Colleges would enable you to equip with leadership and managerial skills. The knowledge that you will gain, the fine qualities that you will imbibe and the technical skills that you will learn to apply will be your major contribution to your parents, to society, and to the nation.
+<br><br>
+It is with great pride that I serve as the Chairman of SV Colleges and I believe in the education we offer just as I believe in our faculty and our students. I once again welcome you to our SV Colleges family and assure the best of the education to our students.
+<br><br>
+<q>You don't have to be great to start, but you have to start to be great.</q>
+<br><br><ins><b>Governing body members</b><ins>
+</div>
+</p>
+</fieldset>
+
+<br> <br> <br> <fieldset>
+<h4 id="id3">Gallery</h4>
+<span style="background-color:tomato;color:white;">&nbsp OUR  TEAM &nbsp</span><hr color="blue" width="10%">
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/Principal_Passport.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.N.Sudhakar Reddy
+<br><small>principal</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hod/vp_passport_pic.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.Tharakeswar Appala
+<br><small>Vice Principal</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/dean_sac_new.png" style="width:170px;height:150px;">
+<div id="content5">
+Dr.N.Mashurima Virupakshi
+<br><small>Dean,SAC</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/CSE_HOD_Passport_latest.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.K.Santhi
+<br><small>HOD,CSE</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_CSA_Passport.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.R.Swathi
+<br><small>HOD,CSA</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hod/IT.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.S.Murali Krishna
+<br><small>HOD,IT</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_ECE_Passport.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.D.Srinivasulu Reddy
+<br><small>HOD,ECE</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_EEE_Passport_new.png" style="width:170px;height:150px;">
+<div id="content5">
+Dr.V.Lakshmi Devi
+<br><small>HOD,EEE</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_Mech_Passport.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.M.Chandra Sekhar<br> Reddy
+<br><small>HOD,ME</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_Civil_Passport.jpeg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.M.Chittaranjan
+<br><small>HOD,CIVIL</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_SnH_Maths.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.K.Venkateswara Raju
+<br><small>HOD,Maths</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_SnH_PhyChe_Passport.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.N.Manohar Reddy
+<br><small>HOD,S&H</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_English_Dept.jpeg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.k Suneetha
+<br><small>HOD,English</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_MBA_Passport1.jpeg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.M.Neeraja
+<br><small>HOD,MBA</small>
+</div></div>
+<div id="img3">
+<img src="https://svce.edu.in/images/hods/HOD_MCA_Passport.jpg" style="width:170px;height:150px;">
+<div id="content5">
+Dr.E.Sreedevi
+<br><small>HOD,MCA</small>
+</div></div>
+
+</fieldset>
+<br> <br> <br> <fieldset>
+<h4 id="id4">Contact</h4>
+<div id="img4">
+<img src="https://unblast.com/wp-content/uploads/2020/09/Contact-Us-Vector-Illustration-Part-02-1.jpg" style="width:1170px;height:350px;">
+<div id="content6">
+CONTACT US
+</div>
+</div>
+<br><br>
+<span style="background-color:red;color:white">OUR INSTITUTIONS</span>
+<br><br>
+<fieldset id="set1">Tirupati Campus<hr color="red" width="30px"><br>
+SVCE & SVEC<br>
+<p color="blue">Karakambadi Road, Tirupati
+<br>
++91-88866 44985<br>
++91-88866 44969<br>
+info@svce.edu.in<br>
+info@svec.edu.in</p>
+</fieldset>
+
+<fieldset id="set2"><hr color="blue" width="30%">
+Kadapa Campus<br>
+SVCK & SVDK<br><br>
+Balaji Nagar, Kadapa<br>
++91-94402 83434<br>
++91-99663 91643<br>
+info@svck.edu.in<br>
+info@svdc.edu.in<br>
+</fieldset><br><br>
+<span style="background-color:red;color:white"><b> IMPORTANT CONTACTS </b></span>
+<br> <br>SVCE TIRUPATI
+<table><center>
+<tr>
+<td>Principal Office &nbsp  &nbsp  &nbsp &nbsp  &nbsp  &nbsp	+91-8886644348</td>
+</tr>
+<tr>
+<td>Admission Office &nbsp  &nbsp  &nbsp &nbsp  &nbsp  &nbsp	+91-8886644969</td>
+</tr>
+<tr>
+<td>Reception Office &nbsp  &nbsp  &nbsp &nbsp  &nbsp  &nbsp	+91-8886644985</td>
+</tr>
+<tr>
+<td>Administrative Office &nbsp  &nbsp  &nbsp &nbsp  &nbsp  &nbsp	+91-8886644950</td>
+</tr></center></table>
+<p></p>
+</fieldset>
+</i></body>
+</html>
